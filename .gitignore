@@ -1,0 +1,16 @@
+
+# Local database credentials
+db.properties
+
+# Java compiled files
+*.class
+
+# Build output
+dist/
+packaging/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
